@@ -1,3 +1,3 @@
 # actividad 4
 
-Nombres: Jesus Francisco 
+Nombres: Jesus Francisco Gonzalez
