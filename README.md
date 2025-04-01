@@ -1,3 +1,4 @@
 # actividad 4
 
-Nombres: Jesus Francisco Gonzalez
+Nombres: Jesus Francisco Gonzalez 
+         Brenda Lucas Salazar 
